@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_create_rgb_color">Create an RGB Color</string>
+    <string name="description_hex_input">Add two hexadecimal characters between 0-9, A-F or a-f without the \'#\' for each channel</string>
+    <string name="hint_red_channel">Red Channel</string>
+    <string name="hint_green_channel">Green Channel</string>
+    <string name="hint_blue_channel">Blue Channel</string>
+    <string name="button_create_rgb_color">CREATE RGB COLOR</string>
+    <string name="text_color_display_panel">Created color display panel</string>
+</resources>
